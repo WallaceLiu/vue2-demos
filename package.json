@@ -111,6 +111,7 @@
     "sortablejs": "^1.10.1",
     "videojs-contrib-hls": "^5.15.0",
     "videojs-flash": "^2.2.1",
+    "vue-hot-reload-api": "^2.3.4",
     "vue-video-player": "^5.0.2",
     "xss": "^1.0.6",
     "zipcelx": "^1.6.0"
